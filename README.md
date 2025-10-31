@@ -28,12 +28,7 @@ For a detailed walkthrough of the reverse engineering process, check out the com
 - **Download:** [github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 - **Usage:** Detect .NET Reactor protection
 
-### 3. **MegaDumper** - .NET Memory Dumper
-- **Purpose:** Basic .NET assembly dumping from memory
-- **Download:** [github.com/CodeCracker-Tools/MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper)
-- **Note:** May not work on heavily protected executables
-
-### 4. **ExtremeDumper** - Advanced .NET Memory Dumper
+### 3. **ExtremeDumper** - Advanced .NET Memory Dumper
 - **Purpose:** Advanced memory dumping for heavily protected .NET apps
 - **Download:** [github.com/wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper)
 - **Important:** Use the 32-bit (x86) version for 32-bit targets!
